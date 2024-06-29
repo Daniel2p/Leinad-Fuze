@@ -49,3 +49,7 @@ display:flex;
     background-color:green ;
     color:orange
 }
+@media screen and (max-width:768px){
+    .order{
+        display:grid;
+}
