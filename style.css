@@ -1,0 +1,51 @@
+h1{
+    color:rgb(0, 0, 0);
+    
+}
+li{
+    color:black;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: grey;
+}
+a{
+    text-decoration: underline;
+    color: aqua;
+}
+.hi{
+    color: black;
+}
+.black{
+    color: black;
+}
+.order{
+    display: flex;
+}
+.menu{
+    width: 50%;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    color:white;
+    border-radius: 50px;
+    margin: 10px;
+}
+.menu img{
+    width: 100%;
+    border-radius: 30px;
+}
+.image{
+display:flex;
+}
+.price button{
+    background-color:white;
+     margin-bottom:10px;
+    border-radius: 10px;
+}
+.price button:hover{
+    background-color:green ;
+    color:orange
+}
